@@ -1,1 +1,4 @@
-echo hello fatim 
+<?php
+$var= "FatimNosandogo";
+echo"hello $var";
+?>
