@@ -1,4 +1,1 @@
-<?php
-$var= "FatimNosandogo";
-echo"hello $var";
-?>
+echo hello fatim 
